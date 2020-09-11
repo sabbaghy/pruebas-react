@@ -1,0 +1,7 @@
+.NavbarItems {
+   height: 60px;
+   background: #123432;
+   display: flex;
+   align-items: center;
+   justify-content: space-around;
+}
